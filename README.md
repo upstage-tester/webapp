@@ -19,4 +19,4 @@ npm run dev
 
 ## Contributing
 
-Please open an issue before submiting a pull request.
+Please open an issue before submitting a pull request.
