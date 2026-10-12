@@ -16,7 +16,8 @@ npm run dev
 | PORT | Server port | 3000 |
 | DATABASE_URL | Database connection string | (none) |
 | API_BASE_URL | External API base URL | https://api.example.com |
+| LOG_LEVEL | Log level | info |
 
 ## Contributing
 
-Please open an issue before submiting a pull request.
+Please open an issue before submitting a pull request.
