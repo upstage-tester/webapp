@@ -20,3 +20,4 @@ npm run dev
 ## Contributing
 
 Please open an issue before submiting a pull request.
+안녕 친구야
